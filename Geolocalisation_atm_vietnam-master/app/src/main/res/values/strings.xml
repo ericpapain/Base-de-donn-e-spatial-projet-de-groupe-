@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ATM Location</string>
+
+    <string name="item1">Search</string>
+    <string name="item2">Help</string>
+    <string name="item3">About</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
